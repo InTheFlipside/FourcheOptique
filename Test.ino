@@ -1,5 +1,5 @@
 const int fourchePin = 13;
-const int ledPin =  9;
+const int ledPin =  9; // pas utilisé ici 
 int cmpfourche;
 int EtatFourche =0 ;
 
